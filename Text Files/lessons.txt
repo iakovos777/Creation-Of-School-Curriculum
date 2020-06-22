@@ -1,0 +1,56 @@
+Lessons { 
+			lesson_code: A001, lesson_name: Arxaia Ellhnika, Class: A, Hours: 2
+			lesson_code: A002, lesson_name: Neoellhnikh Logotexnia, Class: A, Hours: 2
+			lesson_code: A003, lesson_name: Glwssikh didaskalia, Class: A, Hours: 3
+			lesson_code: A004, lesson_name: Arxaia Ellhnika Apo Metafrash, Class: A, Hours: 2
+			lesson_code: A005, lesson_name: Mathimatika, Class: A, Hours: 4
+			lesson_code: A006, lesson_name: Fusikh, Class: A, Hours: 1
+			lesson_code: A007, lesson_name: Biologia, Class: A, Hours: 1
+			lesson_code: A008, lesson_name: Geographia, Class: A, Hours: 1
+			lesson_code: A009, lesson_name: Oikiakh oikonomia, Class: A, Hours: 2
+			lesson_code: A010, lesson_name: Istoria, Class: A, Hours: 2
+			lesson_code: A011, lesson_name: Thriskeutika, Class: A, Hours: 2
+			lesson_code: A012, lesson_name: Agglika, Class: A, Hours: 2
+			lesson_code: A013, lesson_name: Gallika, Class: A, Hours: 2
+			lesson_code: A014, lesson_name: Fusikh Agwgh, Class: A, Hours: 2
+			lesson_code: A015, lesson_name: Texnologia, Class: A, Hours: 1
+			lesson_code: A016, lesson_name: Pliroforikh, Class: A, Hours: 1
+			lesson_code: A017, lesson_name: Mousikh, Class: A, Hours: 1
+			lesson_code: A018, lesson_name: Kallitexnika, Class: A, Hours: 1
+			lesson_code: B001, lesson_name: Arxaia Ellhnika, Class: B, Hours: 2
+			lesson_code: B002, lesson_name: Neoellhnikh Logotexnia, Class: B, Hours: 2
+			lesson_code: B003, lesson_name: Glwssikh didaskalia, Class: B, Hours: 2
+			lesson_code: B004, lesson_name: Arxaia Ellhnika Apo Metafrash, Class: B, Hours: 2
+			lesson_code: B005, lesson_name: Mathimatika, Class: B, Hours: 4
+			lesson_code: B006, lesson_name: Fusikh, Class: B, Hours: 2
+			lesson_code: B007, lesson_name: Biologia, Class: B, Hours: 1
+			lesson_code: B008, lesson_name: Geographia, Class: B, Hours: 2
+			lesson_code: B009, lesson_name: Xhmeia, Class: B, Hours: 1
+			lesson_code: B010, lesson_name: Istoria, Class: B, Hours: 2
+			lesson_code: B011, lesson_name: Thriskeutika, Class: B, Hours: 2
+			lesson_code: B012, lesson_name: Agglika, Class: B, Hours: 2
+			lesson_code: B013, lesson_name: Gallika, Class: B, Hours: 2
+			lesson_code: B014, lesson_name: Fusikh Agwgh, Class: B, Hours: 2
+			lesson_code: B015, lesson_name: Texnologia, Class: B, Hours: 1
+			lesson_code: B016, lesson_name: Pliroforikh, Class: B, Hours: 1
+			lesson_code: B017, lesson_name: Mousikh, Class: B, Hours: 1
+			lesson_code: B018, lesson_name: Kallitexnika, Class: B, Hours: 1
+			lesson_code: C001, lesson_name: Arxaia Ellhnika, Class: C, Hours: 2
+			lesson_code: C002, lesson_name: Neoellhnikh Logotexnia, Class: C, Hours: 2
+			lesson_code: C003, lesson_name: Glwssikh didaskalia, Class: C, Hours: 2
+			lesson_code: C004, lesson_name: Arxaia Ellhnika Apo Metafrash, Class: C, Hours: 2
+			lesson_code: C005, lesson_name: Mathimatika, Class: C, Hours: 4
+			lesson_code: C006, lesson_name: Fusikh, Class: C, Hours: 2
+			lesson_code: C007, lesson_name: Biologia, Class: C, Hours: 1
+			lesson_code: C008, lesson_name: Xhmeia, Class: C, Hours: 1
+			lesson_code: C009, lesson_name: Koinwnikh kai politikh agwgh, Class: C, Hours: 2
+			lesson_code: C010, lesson_name: Istoria, Class: C, Hours: 2
+			lesson_code: C011, lesson_name: Thriskeutika, Class: C, Hours: 2
+			lesson_code: C012, lesson_name: Agglika, Class: C, Hours: 2
+			lesson_code: C013, lesson_name: Gallika, Class: C, Hours: 2
+			lesson_code: C014, lesson_name: Fusikh Agwgh, Class: C, Hours: 2
+			lesson_code: C015, lesson_name: Texnologia, Class: C, Hours: 1
+			lesson_code: C016, lesson_name: Pliroforikh, Class: C, Hours: 1
+			lesson_code: C017, lesson_name: Mousikh, Class: C, Hours: 1
+			lesson_code: C018, lesson_name: Kallitexnika, Class: C, Hours: 1
+}

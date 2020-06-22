@@ -1,0 +1,32 @@
+Teachers {
+			teacher_code: T001, teacher_name: Giorgos Papakwstas, lesson_codes: A005 B005 C005, Hours_per_day: 2-3, Hours_per_week: 12
+			teacher_code: T002, teacher_name: Petros Petrovas, lesson_codes: A005 B005 C005, Hours_per_day: 2-3, Hours_per_week: 12
+			teacher_code: T003, teacher_name: Makis Ntoulis, lesson_codes: A005 B005 C005, Hours_per_day: 2-3, Hours_per_week: 12
+			teacher_code: T004, teacher_name: Dimitris Methenitis, lesson_codes: A006 B006 C006, Hours_per_day: 3, Hours_per_week: 15 
+			teacher_code: T005, teacher_name: Alkis Vardakas, lesson_codes: A001 B001, Hours_per_day: 2-3, Hours_per_week: 12 
+			teacher_code: T006, teacher_name: Antonis Manolopoulos, lesson_codes: C001 A010 B010, Hours_per_day: 2-3, Hours_per_week: 12 
+			teacher_code: T007, teacher_name: Xristos Antoniou, lesson_codes: A010 B010 C010, Hours_per_day: 2-3, Hours_per_week: 12
+			teacher_code: T008, teacher_name: Kwstas Trelos, lesson_codes: A002 A004 B004 C004, Hours_per_day: 2-3, Hours_per_week: 12
+			teacher_code: T009, teacher_name: Giannis Petrounias, lesson_codes: A002 B003 C004, Hours_per_day: 2-3, Hours_per_week: 12
+			teacher_code: T010, teacher_name: Manolis Melas, lesson_codes: B003 B004 C003, Hours_per_day: 2-3, Hours_per_week: 12
+			teacher_code: T011, teacher_name: Maria Papanikh, lesson_codes: A003 B002 C002, Hours_per_day: 3, Hours_per_week: 15
+			teacher_code: T012, teacher_name: Paulos Palaiologos, lesson_codes: A012 B012 C012, Hours_per_day: 1-2, Hours_per_week: 9
+			teacher_code: T013, teacher_name: Elenh Papapetrou, lesson_codes: A013 B013 C013, Hours_per_day: 1-2, Hours_per_week: 9
+			teacher_code: T014, teacher_name: Gianna Kokkali, lesson_codes: A009 C009 , Hours_per_day: 2-3 , Hours_per_week: 12 
+			teacher_code: T015, teacher_name: Anna Tsipra, lesson_codes: A012 B012 C012 , Hours_per_day: 1-2, Hours_per_week: 9 
+			teacher_code: T016, teacher_name: Hlektra Samara, lesson_codes: A013 B013 C013 , Hours_per_day: 1-2, Hours_per_week: 9 
+			teacher_code: T017, teacher_name: Sofia Petropoulou, lesson_codes: A007 B007 C007, Hours_per_day: 1-2, Hours_per_week: 9 
+			teacher_code: T018, teacher_name: Nikh Papadopoulou, lesson_codes: A008 B008 B009 C008, Hours_per_day: 3, Hours_per_week: 15 
+			teacher_code: T019, teacher_name: Manto Paulidou, lesson_codes: A011 B011 C011, Hours_per_day: 3-4, Hours_per_week: 18 
+			teacher_code: T020, teacher_name: Nikoleta Papastratou, lesson_codes: A014 B014 C014, Hours_per_day: 3-4, Hours_per_week: 18 
+			teacher_code: T021, teacher_name: Dimitra Kasnaferi, lesson_codes: A016 B016 C016, Hours_per_day: 1-2, Hours_per_week: 9 
+			teacher_code: T022, teacher_name: Eua Poluxronh, lesson_codes: A015 B015 C015, Hours_per_day: 1-2, Hours_per_week: 9 
+			teacher_code: T023, teacher_name: Aggelikh Vagia, lesson_codes: A018 B018 C018, Hours_per_day: 1-2, Hours_per_week: 9
+			teacher_code: T024, teacher_name: Katerina Botsi, lesson_codes: A017 B017 C017, Hours_per_day: 1-2, Hours_per_week: 9
+			teacher_code: T025, teacher_name: Nana Karamela, lesson_codes: A006 B006 C006, Hours_per_day: 3, Hours_per_week: 15
+			teacher_code: T026, teacher_name: Kiki Fraoula, lesson_codes: A005 B005 C005, Hours_per_day: 3, Hours_per_week: 15
+			teacher_code: T027, teacher_name: Vana Karpouzi, lesson_codes: A008 B008 B009 C008, Hours_per_day: 3, Hours_per_week: 15
+			teacher_code: T028, teacher_name: Lina Siko, lesson_codes: A011 B011 C011, Hours_per_day: 3, Hours_per_week: 15
+			teacher_code: T029, teacher_name: Ioanna Mila, lesson_codes: A007 B007 C007, Hours_per_day: 3, Hours_per_week: 15
+			teacher_code: T030, teacher_name: Lila Axladia, lesson_codes: A014 B014 C014, Hours_per_day: 3, Hours_per_week: 15			
+}
